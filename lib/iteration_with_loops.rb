@@ -17,4 +17,5 @@ while row_index < array_of_arrays.length do
     end 
     row_index += 1 
   end
+end 
 end
